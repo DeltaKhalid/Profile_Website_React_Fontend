@@ -1,0 +1,22 @@
+#root {
+  min-height: 100vh;
+}
+
+.content.works .grid-items .grid-item {
+  display: flex;
+}
+
+.content.works .grid-items .grid-item .box-item {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.content.works .grid-items .grid-item .image img {
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+}
+
+.content.works .grid-items .grid-item .desc {
+  min-height: 72px;
+}
