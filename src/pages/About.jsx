@@ -117,6 +117,42 @@ function About() {
 								</div>
 							</div>
 						</div>
+						<div className='col col-d-3 col-t-3 col-m-6 border-line-v'>
+							<div className='client-item'>
+								<div className='image'>
+									<a target='_blank' rel='noreferrer' href='https://www.google.com'>
+										<img src='/src/assets/images/clients/client_5.png' alt='' />
+									</a>
+								</div>
+							</div>
+						</div>
+						<div className='col col-d-3 col-t-3 col-m-6 border-line-v'>
+							<div className='client-item'>
+								<div className='image'>
+									<a target='_blank' rel='noreferrer' href='https://www.google.com'>
+										<img src='/src/assets/images/clients/client_6.png' alt='' />
+									</a>
+								</div>
+							</div>
+						</div>
+						<div className='col col-d-3 col-t-3 col-m-6 border-line-v'>
+							<div className='client-item'>
+								<div className='image'>
+									<a target='_blank' rel='noreferrer' href='https://www.google.com'>
+										<img src='/src/assets/images/clients/client_7.png' alt='' />
+									</a>
+								</div>
+							</div>
+						</div>
+						<div className='col col-d-3 col-t-3 col-m-6 border-line-v'>
+							<div className='client-item'>
+								<div className='image'>
+									<a target='_blank' rel='noreferrer' href='https://www.google.com'>
+										<img src='/src/assets/images/clients/client_8.png' alt='' />
+									</a>
+								</div>
+							</div>
+						</div>
 						<div className='clear'></div>
 					</div>
 				</div>

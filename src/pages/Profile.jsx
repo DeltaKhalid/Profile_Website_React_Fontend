@@ -15,22 +15,34 @@ function Profile() {
 							</div>
 							<div className='resume-items'>
 								<div className='resume-item border-line-h active'>
-									<div className='date'>2013 - Present</div>
-									<div className='name'>Art Director</div>
-									<div className='company'>Facebook Inc.</div>
-									<p>Collaborate with creative and development teams on the execution of ideas.</p>
+									<div className='date'>Oct 2023 - Present</div>
+									<div className='name'>Mobile App Developer</div>
+									<div className='company'>TK Group (Delta Agrofood Industries Ltd)</div>
+									<p>Developing mobile applications using Dart and Flutter framework.</p>
 								</div>
 								<div className='resume-item border-line-h'>
-									<div className='date'>2011 - 2012</div>
-									<div className='name'>Front-end Developer</div>
-									<div className='company'>Google Inc.</div>
-									<p>Monitored technical aspects of the front-end delivery for several projects.</p>
+									<div className='date'>Feb 2023 - Sep 2023</div>
+									<div className='name'>Mobile App Developer</div>
+									<div className='company'>Soft Expert Zone</div>
+									<p>Built mobile applications using Dart and Flutter framework.</p>
+								</div>
+								<div className='resume-item border-line-h'>
+									<div className='date'>May 2021 - Jan 2023</div>
+									<div className='name'>Android App Developer</div>
+									<div className='company'>Sky X Digital</div>
+									<p>Developed Android applications using Java.</p>
+								</div>
+								<div className='resume-item border-line-h'>
+									<div className='date'>Jul 2019 - Apr 2021</div>
+									<div className='name'>Android App Developer</div>
+									<div className='company'>Coder Hand</div>
+									<p>Developed Android applications using Java.</p>
 								</div>
 								<div className='resume-item'>
-									<div className='date'>2009 - 2010</div>
-									<div className='name'>Senior Developer</div>
-									<div className='company'>Abc Inc.</div>
-									<p>Optimize website performance using latest technology.</p>
+									<div className='date'>6 Months</div>
+									<div className='name'>Android Developer Intern</div>
+									<div className='company'>Talha Soft</div>
+									<p>Internship in Android development using Java.</p>
 								</div>
 							</div>
 						</div>
@@ -44,22 +56,22 @@ function Profile() {
 							</div>
 							<div className='resume-items'>
 								<div className='resume-item border-line-h'>
-									<div className='date'>2006 - 2008</div>
-									<div className='name'>Art University</div>
-									<div className='company'>New York</div>
-									<p>Bachelor&apos;s Degree in Computer Science ABC Technical Institute, Jefferson, Missouri</p>
+									<div className='date'>2018</div>
+									<div className='name'>Bachelor of Science (EEE)</div>
+									<div className='company'>IUBAT − International University of Business Agriculture and Technology</div>
+									<p>Electrical and Electronics Engineering. CGPA: 3.47 out of 4.00</p>
 								</div>
 								<div className='resume-item border-line-h'>
-									<div className='date'>2005 - 2006</div>
-									<div className='name'>Programming Course</div>
-									<div className='company'>Paris</div>
-									<p>Coursework - Git, WordPress, Javascript, iOS, Android.</p>
+									<div className='date'>2013</div>
+									<div className='name'>Diploma In Engineering</div>
+									<div className='company'>Dhaka Polytechnic Institute (BTEB)</div>
+									<p>Department of Electronics. CGPA: 3.33 out of 4.00</p>
 								</div>
 								<div className='resume-item'>
-									<div className='date'>2004 - 2005</div>
-									<div className='name'>Web Design Course</div>
-									<div className='company'>London</div>
-									<p>Converted Photoshop layouts to web pages using HTML, CSS, and JavaScript.</p>
+									<div className='date'>2009</div>
+									<div className='name'>Secondary School Certificate (SSC)</div>
+									<div className='company'>Tongi Islamia Senior Madrasah</div>
+									<p>Science Group. GPA: 5.00 — Bangladesh Madrasah Education Board, Dhaka</p>
 								</div>
 							</div>
 						</div>
@@ -76,33 +88,33 @@ function Profile() {
 							<div className='skills-list'>
 								<div className='skill-title border-line-h'>
 									<div className='icon'>
-										<i className='fa fa-paint-brush'></i>
+										<i className='fa fa-mobile'></i>
 									</div>
-									<div className='name'>Design</div>
+									<div className='name'>Mobile Development</div>
 								</div>
 								<ul>
 									<li className='border-line-h'>
-										<div className='name'>Web Design</div>
+										<div className='name'>Flutter / Dart</div>
 										<div className='progress'>
-											<div className='percentage' style={{ width: '90%' }}></div>
+											<div className='percentage' style={{ width: '85%' }}></div>
 										</div>
 									</li>
 									<li className='border-line-h'>
-										<div className='name'>Write Music</div>
+										<div className='name'>Android / Java</div>
 										<div className='progress'>
-											<div className='percentage' style={{ width: '65%' }}></div>
+											<div className='percentage' style={{ width: '80%' }}></div>
 										</div>
 									</li>
 									<li className='border-line-h'>
-										<div className='name'>Photoshop</div>
+										<div className='name'>Git (Gitlab / GitHub)</div>
 										<div className='progress'>
 											<div className='percentage' style={{ width: '75%' }}></div>
 										</div>
 									</li>
 									<li>
-										<div className='name'>Graphic Design</div>
+										<div className='name'>SQLite</div>
 										<div className='progress'>
-											<div className='percentage' style={{ width: '85%' }}></div>
+											<div className='percentage' style={{ width: '70%' }}></div>
 										</div>
 									</li>
 								</ul>
@@ -119,27 +131,27 @@ function Profile() {
 								</div>
 								<ul>
 									<li className='border-line-h'>
+										<div className='name'>Bangla</div>
+										<div className='progress'>
+											<div className='percentage' style={{ width: '100%' }}></div>
+										</div>
+									</li>
+									<li className='border-line-h'>
 										<div className='name'>English</div>
 										<div className='progress'>
-											<div className='percentage' style={{ width: '90%' }}></div>
+											<div className='percentage' style={{ width: '70%' }}></div>
 										</div>
 									</li>
 									<li className='border-line-h'>
-										<div className='name'>German</div>
+										<div className='name'>Arabic (Reading)</div>
 										<div className='progress'>
-											<div className='percentage' style={{ width: '60%' }}></div>
-										</div>
-									</li>
-									<li className='border-line-h'>
-										<div className='name'>Italian</div>
-										<div className='progress'>
-											<div className='percentage' style={{ width: '30%' }}></div>
+											<div className='percentage' style={{ width: '50%' }}></div>
 										</div>
 									</li>
 									<li>
-										<div className='name'>French</div>
+										<div className='name'>Hindi (Understanding)</div>
 										<div className='progress'>
-											<div className='percentage' style={{ width: '70%' }}></div>
+											<div className='percentage' style={{ width: '40%' }}></div>
 										</div>
 									</li>
 								</ul>
@@ -156,27 +168,27 @@ function Profile() {
 								</div>
 								<ul>
 									<li>
-										<div className='name'>WordPress</div>
-										<div className='progress p90'>
-											<span>90%</span>
-										</div>
-									</li>
-									<li>
-										<div className='name'>PHP / MYSQL</div>
-										<div className='progress p75'>
-											<span>75%</span>
-										</div>
-									</li>
-									<li>
-										<div className='name'>Angular / JavaScript</div>
+										<div className='name'>Dart / Flutter</div>
 										<div className='progress p85'>
 											<span>85%</span>
 										</div>
 									</li>
 									<li>
+										<div className='name'>Java (Android)</div>
+										<div className='progress p80'>
+											<span>80%</span>
+										</div>
+									</li>
+									<li>
+										<div className='name'>C</div>
+										<div className='progress p60'>
+											<span>60%</span>
+										</div>
+									</li>
+									<li>
 										<div className='name'>HTML / CSS</div>
-										<div className='progress p95'>
-											<span>95%</span>
+										<div className='progress p70'>
+											<span>70%</span>
 										</div>
 									</li>
 								</ul>
@@ -192,14 +204,14 @@ function Profile() {
 									<div className='name'>Knowledge</div>
 								</div>
 								<ul>
-									<li><div className='name'>Website hosting</div></li>
-									<li><div className='name'>iOS and android apps</div></li>
-									<li><div className='name'>Create logo design</div></li>
-									<li><div className='name'>Design for print</div></li>
-									<li><div className='name'>Modern and mobile-ready</div></li>
-									<li><div className='name'>Advertising services include</div></li>
-									<li><div className='name'>Graphics and animations</div></li>
-									<li><div className='name'>Search engine marketing</div></li>
+									<li><div className='name'>Android SDK &amp; Android Studio</div></li>
+									<li><div className='name'>Flutter &amp; Dart</div></li>
+									<li><div className='name'>Git, Gitlab, GitHub</div></li>
+									<li><div className='name'>SQLite Database</div></li>
+									<li><div className='name'>REST API &amp; Retrofit</div></li>
+									<li><div className='name'>Windows OS</div></li>
+									<li><div className='name'>Eclipse IDE</div></li>
+									<li><div className='name'>Mobile App Architecture</div></li>
 								</ul>
 							</div>
 						</div>

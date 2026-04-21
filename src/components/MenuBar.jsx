@@ -2,7 +2,7 @@ const menuItems = [
   { href: '#about-card', icon: 'ion-person', label: 'About', isActive: true },
   { href: '#resume-card', icon: 'ion-android-list', label: 'Resume' },
   { href: '#works-card', icon: 'ion-paintbrush', label: 'Works' },
-  { href: '#blog-card', icon: 'ion-chatbox-working', label: 'Blog' },
+  // { href: '#blog-card', icon: 'ion-chatbox-working', label: 'Blog' },
   { href: '#contacts-card', icon: 'ion-at', label: 'Contact' },
 ]
 
