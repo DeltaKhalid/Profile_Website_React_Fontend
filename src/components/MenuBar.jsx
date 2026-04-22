@@ -12,7 +12,7 @@ function MenuBar() {
       <ul>
         {menuItems.map((item) => (
           <li key={item.href} className={item.isActive ? 'active' : undefined}>
-            <a href={item.href}>
+            <a href={item.href}>~
               <span className={`icon ${item.icon}`}></span>
               <span className='link'>{item.label}</span>
             </a>

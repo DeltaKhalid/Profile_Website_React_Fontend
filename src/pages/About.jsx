@@ -1,3 +1,5 @@
+import khalidProfileImage01 from '../assets/images/khalid_profile_image_01.jpg'
+
 function About() {
 	return (
 		<div className='card-inner animated active' id='about-card'>
@@ -85,7 +87,7 @@ function About() {
 							<div className='client-item'>
 								<div className='image'>
 									<a target='_blank' rel='noreferrer' href='https://www.google.com'>
-										<img src='/src/assets/images/clients/client_1.png' alt='Client 1' />
+										<img src='/assets/images/clients/client_1.png' alt='Client 1' />
 									</a>
 								</div>
 							</div>
@@ -94,7 +96,7 @@ function About() {
 							<div className='client-item'>
 								<div className='image'>
 									<a target='_blank' rel='noreferrer' href='https://www.google.com'>
-										<img src='/src/assets/images/clients/client_2.png' alt='Client 2' />
+										<img src='/assets/images/clients/client_2.png' alt='Client 2' />
 									</a>
 								</div>
 							</div>
@@ -103,7 +105,7 @@ function About() {
 							<div className='client-item'>
 								<div className='image'>
 									<a target='_blank' rel='noreferrer' href='https://www.google.com'>
-										<img src='/src/assets/images/clients/client_3.png' alt='Client 3' />
+										<img src='/assets/images/clients/client_3.png' alt='Client 3' />
 									</a>
 								</div>
 							</div>
@@ -112,7 +114,7 @@ function About() {
 							<div className='client-item'>
 								<div className='image'>
 									<a target='_blank' rel='noreferrer' href='https://www.google.com'>
-										<img src='/src/assets/images/clients/client_4.png' alt='Client 4' />
+										<img src='/assets/images/clients/client_4.png' alt='Client 4' />
 									</a>
 								</div>
 							</div>
@@ -121,7 +123,7 @@ function About() {
 							<div className='client-item'>
 								<div className='image'>
 									<a target='_blank' rel='noreferrer' href='https://www.google.com'>
-										<img src='/src/assets/images/clients/client_5.png' alt='' />
+										<img src='/assets/images/clients/client_5.png' alt='' />
 									</a>
 								</div>
 							</div>
@@ -130,7 +132,7 @@ function About() {
 							<div className='client-item'>
 								<div className='image'>
 									<a target='_blank' rel='noreferrer' href='https://www.google.com'>
-										<img src='/src/assets/images/clients/client_6.png' alt='' />
+										<img src='/assets/images/clients/client_6.png' alt='' />
 									</a>
 								</div>
 							</div>
@@ -139,7 +141,7 @@ function About() {
 							<div className='client-item'>
 								<div className='image'>
 									<a target='_blank' rel='noreferrer' href='https://www.google.com'>
-										<img src='/src/assets/images/clients/client_7.png' alt='' />
+										<img src='/assets/images/clients/client_7.png' alt='' />
 									</a>
 								</div>
 							</div>
@@ -148,7 +150,7 @@ function About() {
 							<div className='client-item'>
 								<div className='image'>
 									<a target='_blank' rel='noreferrer' href='https://www.google.com'>
-										<img src='/src/assets/images/clients/client_8.png' alt='' />
+										<img src='/assets/images/clients/client_8.png' alt='' />
 									</a>
 								</div>
 							</div>
@@ -171,7 +173,7 @@ function About() {
 								</div>
 								<div className='user'>
 									<div className='img'>
-										<img src='/src/assets/images/khalid_profile_image_01.jpg' alt='Khalid Ahmad' />
+										<img src={khalidProfileImage01} alt='Khalid Ahmad' />
 									</div>
 									<div className='info'>
 										<div className='name'>Khalid Ahmad</div>

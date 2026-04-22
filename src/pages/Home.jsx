@@ -4,6 +4,7 @@ import Blog from './Blog.jsx'
 import Contact from './Contact.jsx'
 import Profile from './Profile.jsx'
 import Works from './Works.jsx'
+import khalidProfileImage01 from '../assets/images/khalid_profile_image_01.jpg'
 
 function Home() {
 	return (
@@ -53,7 +54,7 @@ function Home() {
 					<div className='profile no-photo'>
 						<div
 							className='slide'
-							style={{ backgroundImage: "url('/src/assets/images/khalid_profile_image_01.jpg')" }}
+							style={{ backgroundImage: `url(${khalidProfileImage01})` }}
 						></div>
 
 						<div className='title'>Khalid Ahmad</div>

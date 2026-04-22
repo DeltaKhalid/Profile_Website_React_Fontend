@@ -10,7 +10,7 @@ function Blog() {
               <div className='box-item'>
                 <div className='image'>
                   <a href='#'>
-                    <img src='/src/assets/images/blog/blog1.jpg' alt='By spite about do of allow' />
+                    <img src='/assets/images/blog/blog1.jpg' alt='By spite about do of allow' />
                     <span className='info'>
                       <span className='ion ion-document-text'></span>
                     </span>
@@ -37,7 +37,7 @@ function Blog() {
               <div className='box-item'>
                 <div className='image'>
                   <a href='#'>
-                    <img src='/src/assets/images/blog/blog2.jpg' alt='Designing the perfect' />
+                    <img src='/assets/images/blog/blog2.jpg' alt='Designing the perfect' />
                     <span className='info'>
                       <span className='ion ion-document-text'></span>
                     </span>
@@ -64,7 +64,7 @@ function Blog() {
               <div className='box-item'>
                 <div className='image'>
                   <a href='#'>
-                    <img src='/src/assets/images/blog/blog3.jpg' alt='Music Player Design' />
+                    <img src='/assets/images/blog/blog3.jpg' alt='Music Player Design' />
                     <span className='info'>
                       <span className='ion ion-document-text'></span>
                     </span>
@@ -91,7 +91,7 @@ function Blog() {
               <div className='box-item'>
                 <div className='image'>
                   <a href='#'>
-                    <img src='/src/assets/images/blog/blog1.jpg' alt='A Song And Dance Act' />
+                    <img src='/assets/images/blog/blog1.jpg' alt='A Song And Dance Act' />
                     <span className='info'>
                       <span className='ion ion-document-text'></span>
                     </span>

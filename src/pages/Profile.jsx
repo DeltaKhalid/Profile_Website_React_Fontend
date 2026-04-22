@@ -1,3 +1,5 @@
+import khalidProfileImage01 from '../assets/images/khalid_profile_image_01.jpg'
+
 function Profile() {
 	return (
 		<div className='card-inner' id='resume-card'>
@@ -233,7 +235,7 @@ function Profile() {
 									</div>
 									<div className='user'>
 										<div className='img'>
-											<img src='/src/assets/images/khalid_profile_image_01.jpg' alt='Khalid Ahmad' />
+											<img src={khalidProfileImage01} alt='Khalid Ahmad' />
 										</div>
 										<div className='info'>
 											<div className='name'>Khalid Ahmad</div>
